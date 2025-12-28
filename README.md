@@ -16,4 +16,7 @@ The board should send first 4 signals (angery leds are angery) - red/green/blue/
 
 It's very grumpy, but functional.
 
+I did not test more than one strip at a time, since the purpose was to diagnose which leds in particular strip were broken so I could replace them. And no, it's not super hard, takes a lot of patience, a lot of flux, some wick to take out old solder.
+I used Pinecil and it worked (given I had to manually solder out the leds from a different board, but you can easily order packed LEDs on Ali or probably in your electronics store). ESD tweezers for holding them recommended - tho I admit I held some LEDs with bare hands and they work. 
+
 If that helps anyone - you're welcome and hope your LEDs shine bright ✨
