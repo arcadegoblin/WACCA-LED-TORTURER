@@ -6,8 +6,9 @@ Made on cheap Leonardo clone from Aliexpress that costs 5$ and whole 3 M-M dupon
 
 <img width="1507" height="738" alt="obraz" src="https://github.com/user-attachments/assets/86b7667f-82b8-4f9d-83cf-db5aabedf6b1" />
 
-
 [Uses FastLED library.](https://github.com/FastLED/FastLED)
+
+Upload this sketch to Arduino Leonardo using Arduino IDE.
 
 The board should send first 4 signals (angery leds are angery) - red/green/blue/white on entire strip and then leds bow in sequence 1-9 to the LED Overlord. 
 
